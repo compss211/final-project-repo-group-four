@@ -1,5 +1,5 @@
 [project]
-name = "lyrics-data-analyzer"
+name = "lyrics-analyzer"
 version = "0.0.1"
 description = "Final Project Group Four: Navigating Culture Through Music"
 readme = "README.md"
