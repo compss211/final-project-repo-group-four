@@ -2,6 +2,10 @@
 name = "Lyrics-data-analyzer"
 version = "0.0.1"
 description = "Final Project Group Four Repository for COMPSS-211"
+name = "lyrics-analyzer"
+version = "0.0.1"
+description = "Final Project Group Four: Navigating Culture Through Music" 
+jazmine-feature
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
@@ -12,3 +16,4 @@ build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
+
