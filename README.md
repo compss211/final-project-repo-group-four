@@ -30,7 +30,7 @@ Jupyter notebooks documenting the full workflow.
 #### Topic Modeling  
 - `general_topics.ipynb` — BERTopic modeling on the full dataset  
 - `general_topics_trend.ipynb` — Topic trends by year  
-- `1970s_topic.ipynb`, `1990s_topic.ipynb`, `2010s_topic.ipynb` — Deep dives into representative decades  
+- `bert60s.ipynb`, `1970s_topic.ipynb`, `bert80s.ipynb`, `1990s_topic.ipynb`, `bert00s.ipynb`, `2010s_topic.ipynb` — Deep dives into representative decades  
 
 ---
 
